@@ -1,0 +1,14 @@
+{
+  "exchangekey": {
+    "apikey": "APIKEYHERE",
+    "secretkey": "SECRETKEYHERE"
+  },
+  "ordersconf": {
+    "COIN": "DVT",
+    "CoinEx": "BTC",
+    "Side": "buy",
+    "IncrementPerc": -1.0,
+    "OrdersTarget": 100,
+    "OrderType": "limit"
+  }
+}
