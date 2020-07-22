@@ -22,7 +22,8 @@ $ npm install
 *   Set increment percent and orders target.
 *   Use negative increment percent for buy orders and positive increment for sell orders.
 *   If you want to use a different exchange change the `const exchange =` 's contructor to the exchange you want to use.
-
+### Usage
+- `npm start` or `yarn start`
 ### License
 
 This project is licensed under the MIT License
